@@ -1,0 +1,47 @@
+{"action": "create_ticket", "sys_id": "84a57a1ec351b610d8435d02b401312d", "number": "INC0010014", "ts": "2025-11-21T09:19:29.104314Z"}
+{"action": "create_ticket", "sys_id": "95a5fa5ec351b610d8435d02b4013141", "number": "INC0010015", "ts": "2025-11-21T09:19:33.473574Z"}
+{"action": "create_ticket", "sys_id": "f5a5b652c391b610d8435d02b401310c", "number": "INC0010016", "ts": "2025-11-21T09:19:35.814935Z"}
+{"action": "create_ticket", "sys_id": "48c5329ec351b610d8435d02b40131b1", "number": "INC0010017", "ts": "2025-11-21T09:20:01.130421Z"}
+{"action": "create_ticket", "sys_id": "34c53a52c391b610d8435d02b40131ab", "number": "INC0010018", "ts": "2025-11-21T09:20:04.276273Z"}
+{"action": "create_ticket", "sys_id": "2dc57a52c391b610d8435d02b4013135", "number": "INC0010019", "ts": "2025-11-21T09:20:08.827937Z"}
+{"action": "create_ticket", "sys_id": null, "number": null, "ts": "2025-11-26T04:33:50.135367Z"}
+{"action": "create_ticket", "sys_id": null, "number": null, "ts": "2025-11-26T04:33:51.835667Z"}
+{"action": "create_ticket", "sys_id": null, "number": null, "ts": "2025-11-26T04:33:53.658006Z"}
+{"action": "create_ticket", "sys_id": "1cc62f33c3113210d8435d02b4013190", "number": "INC0010020", "ts": "2025-11-26T04:45:03.505564Z"}
+{"action": "create_ticket", "sys_id": "79c62f33c3113210d8435d02b4013188", "number": "INC0010021", "ts": "2025-11-26T04:45:07.168011Z"}
+{"action": "create_ticket", "sys_id": "bac66f73c3113210d8435d02b4013159", "number": "INC0010022", "ts": "2025-11-26T04:45:10.752012Z"}
+{"action": "create_ticket", "sys_id": "1bb173b3c3113210d8435d02b401315e", "number": "INC0010023", "ts": "2025-11-26T05:33:00.115719Z"}
+{"action": "create_ticket", "sys_id": "ccc17333c3513210d8435d02b4013166", "number": "INC0010024", "ts": "2025-11-26T05:33:03.698955Z"}
+{"action": "create_ticket", "sys_id": "41c17333c3513210d8435d02b4013175", "number": "INC0010025", "ts": "2025-11-26T05:33:07.387422Z"}
+{"action": "create_ticket", "sys_id": "11e1bfffc3113210d8435d02b4013159", "number": "INC0010026", "ts": "2025-11-26T05:33:41.105882Z"}
+{"action": "create_ticket", "sys_id": "4ee13733c3513210d8435d02b4013179", "number": "INC0010027", "ts": "2025-11-26T05:33:44.866090Z"}
+{"action": "create_ticket", "sys_id": "4be13733c3513210d8435d02b40131d2", "number": "INC0010028", "ts": "2025-11-26T05:33:48.444622Z"}
+{"action": "create_ticket", "sys_id": "14127333c3513210d8435d02b40131da", "number": "INC0010029", "ts": "2025-11-26T05:34:25.930476Z"}
+{"action": "create_ticket", "sys_id": "fd127733c3513210d8435d02b4013103", "number": "INC0010030", "ts": "2025-11-26T05:34:32.997243Z"}
+{"action": "create_ticket", "sys_id": "af123b33c3513210d8435d02b40131de", "number": "INC0010031", "ts": "2025-11-26T05:34:40.059062Z"}
+{"action": "create_ticket", "sys_id": "19c47773c3513210d8435d02b4013130", "number": "INC0010032", "ts": "2025-11-26T05:46:14.948897Z"}
+{"action": "create_ticket", "sys_id": "c7c4bff3c3513210d8435d02b40131d1", "number": "INC0010033", "ts": "2025-11-26T05:46:22.424132Z"}
+{"action": "create_ticket", "sys_id": "b8d4fff3c3513210d8435d02b4013117", "number": "INC0010034", "ts": "2025-11-26T05:46:29.490335Z"}
+{"action": "create_ticket", "sys_id": "98190d80c3e53210d8435d02b401311c", "number": "INC0010035", "short": "ERR_CONFIG_MISSING: Auto-ticket (initial)", "ts": "2025-11-26T11:54:33.137245Z"}
+{"action": "create_ticket", "sys_id": "e884c594c3a97210d8435d02b401315f", "number": "INC0010036", "short": "Auto-ticket: investigation required", "ts": "2025-11-27T06:13:08.450841Z"}
+{"action": "create_ticket", "sys_id": "0ba4c51cc3a97210d8435d02b4013136", "number": "INC0010037", "short": "Auto-ticket: investigation required", "ts": "2025-11-27T06:13:51.267718Z"}
+{"action": "create_ticket", "sys_id": "e377891cc3a97210d8435d02b4013171", "number": "INC0010038", "short": "Auto-ticket: investigation required", "ts": "2025-11-27T06:26:11.285380Z"}
+{"action": "create_ticket", "sys_id": "8ffecd10c3e97210d8435d02b40131ec", "number": "INC0010039", "short": "Auto-ticket: investigation required", "ts": "2025-11-27T06:58:55.243409Z"}
+{"action": "create_ticket", "sys_id": "c39a2514c32d7210d8435d02b401313e", "number": "INC0010040", "short": "Auto-ticket: investigation required", "ts": "2025-11-27T08:59:36.436366Z"}
+{"action": "create_ticket", "sys_id": "b50dad1cc36d7210d8435d02b4013171", "number": "INC0010041", "short": "application is down", "ts": "2025-11-27T09:10:10.180214Z"}
+{"action": "create_ticket", "sys_id": "166ee150c3ad7210d8435d02b4013166", "number": "INC0010042", "short": "application is down", "ts": "2025-11-27T09:16:12.384318Z"}
+{"action": "create_ticket", "sys_id": "9286a22cc365f210d8435d02b401318a", "number": "INC0010043", "short": "issue with application ServiceNow", "ts": "2025-11-28T07:59:55.623760Z"}
+{"action": "create_ticket", "sys_id": "5e172a68c365f210d8435d02b4013167", "number": "INC0010044", "short": "issue with application ServiceNow", "ts": "2025-11-28T08:02:23.369092Z"}
+{"action": "create_ticket", "sys_id": "014866ecc365f210d8435d02b40131cb", "number": "INC0010045", "short": "issue with application ServiceNow 3", "ts": "2025-11-28T08:07:28.902432Z"}
+{"action": "create_ticket", "sys_id": "8bfb25a9c3213210d8435d02b4013176", "number": "INC0010046", "short": "application not rechable", "ts": "2025-12-01T06:18:00.601734Z"}
+{"action": "create_ticket", "sys_id": "78ed2de5c3213210d8435d02b401311e", "number": "INC0010047", "short": "application not reachable", "ts": "2025-12-01T06:26:18.012686Z"}
+{"action": "create_ticket", "sys_id": "cd62bd2dc3213210d8435d02b40131bd", "number": "INC0010048", "short": "application issue", "ts": "2025-12-01T06:45:58.544935Z"}
+{"action": "create_ticket", "sys_id": "20c239a1c3613210d8435d02b40131c3", "number": "INC0010049", "short": "application not reachable", "ts": "2025-12-01T06:47:34.804287Z"}
+{"action": "create_ticket", "sys_id": "528379a1c3613210d8435d02b40131c5", "number": "INC0010050", "short": "application not reachable", "ts": "2025-12-01T06:50:58.471937Z"}
+{"action": "create_ticket", "sys_id": "55c3bde1c3613210d8435d02b401310d", "number": "INC0010051", "short": "application not reachable", "ts": "2025-12-01T06:51:59.708825Z"}
+{"action": "create_ticket", "sys_id": "455fa2e5c3a53210d8435d02b4013168", "number": "INC0010052", "short": "Application not accessible !", "ts": "2025-12-01T11:12:15.269136Z"}
+{"action": "create_ticket", "sys_id": "06bfaee5c3a53210d8435d02b4013189", "number": "INC0010053", "short": "cls", "ts": "2025-12-01T11:13:57.634132Z"}
+{"action": "create_ticket", "sys_id": "a1307269c3a53210d8435d02b4013134", "number": "INC0010054", "short": "Application not reachable", "ts": "2025-12-01T11:16:06.290202Z"}
+{"action": "create_ticket", "sys_id": "29b107adc3e53210d8435d02b4013151", "number": "INC0010055", "short": "ERR_CONFIG_MISSING: ERR_CONFIG_MISSING failed to read /etc/agent/config.yaml", "ts": "2025-12-01T12:32:33.702963Z"}
+{"action": "create_ticket", "sys_id": "4bea4b69c3293210d8435d02b401317f", "number": "INC0010056", "short": "application issue", "ts": "2025-12-01T13:12:47.999972Z"}
+{"action": "create_ticket", "sys_id": "e6836671c3297210d8435d02b40131ee", "number": "INC0010057", "short": "issues with the application", "ts": "2025-12-02T04:59:12.805470Z"}

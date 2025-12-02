@@ -1,0 +1,13 @@
+# venv / python
+.venv/
+__pycache__/
+*.pyc
+
+# local secrets and DB
+.env
+vectordb/
+agent_audit.log
+
+# OS files
+.DS_Store
+Thumbs.db
